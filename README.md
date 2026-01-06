@@ -7,7 +7,7 @@ I enjoy building full-stack web applications using Python (Django) and modern fr
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 - **Frontend:** HTML, CSS, JavaScript, React.js  
 - **Backend:** Python, Django, Django REST Framework  
@@ -17,21 +17,21 @@ I enjoy building full-stack web applications using Python (Django) and modern fr
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🚲 Bikezone – KTM Bike Website
+###  Bikezone – KTM Bike Website
 - Developed a full-stack website showcasing KTM bike details and booking features  
 - Backend built using Django  
 - Frontend designed with HTML, CSS, and JavaScript  
 - Database: SQLite  
 - Deployed on PythonAnywhere  
 
-🔗 **Live Demo:**  
+ **Live Demo:**  
 https://kirubananthan.pythonanywhere.com
 
 ---
 
-### 🍰 Cake Shop Web Application
+###  Cake Shop Web Application
 - Developed a full-stack cake shop website using **Python (Django REST Framework)** and **React.js**  
 - Implemented features like **cake listing, category management, user orders, and order cancellation**  
 - Created REST APIs for backend and integrated them with frontend  
@@ -40,23 +40,23 @@ https://kirubananthan.pythonanywhere.com
 
 ---
 
-## 🎓 Education
+##  Education
 **Bachelor of Computer Applications (BCA)**  
 Thiruvalluvar Arts and Science College  
 Affiliated to Annamalai University  
 
 ---
 
-## 📜 Certifications
+##  Certifications
 - Python Full Stack Development – Besant Technologies  
 - Recent Trends in Information Technology  
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 - **Email:** dkirubananthan1@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/dkirubananthan1  
 
 ---
 
-⭐ *I am actively looking for entry-level Python / Full Stack Developer opportunities.*
+ *I am actively looking for entry-level Python / Full Stack Developer opportunities.*
