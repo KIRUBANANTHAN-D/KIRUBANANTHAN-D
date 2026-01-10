@@ -1,12 +1,5 @@
 # Hi, I'm Kirubanandhan D
 
-### Python Full Stack Developer | Django | Web Development
-
-I am a recent BCA graduate and an aspiring Python Full Stack Developer.  
-I enjoy building full-stack web applications using Python (Django) and modern frontend technologies.
-
----
-
 ##  Skills & Technologies
 
 - **Frontend:** HTML, CSS, JavaScript, React.js  
@@ -57,6 +50,4 @@ Affiliated to Annamalai University
 - **Email:** dkirubananthan1@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/dkirubananthan1  
 
----
 
- *I am actively looking for entry-level Python / Full Stack Developer opportunities.*
