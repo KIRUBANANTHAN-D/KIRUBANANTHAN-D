@@ -41,8 +41,9 @@ Affiliated to Annamalai University
 ---
 
 ##  Certifications
-- Python Full Stack Development – Besant Technologies  
-- Recent Trends in Information Technology  
+- Python online course completed -Besant Technoligies one month[May-2025].
+- Python & SQL training – Chennai Besant Technologies 6 month [July to Dec-2025].
+- Recent Trends in Information Technology
 
 ---
 
